@@ -1,0 +1,12 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "don",
+  "license": "ISC"
+}
